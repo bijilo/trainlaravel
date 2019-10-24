@@ -26,6 +26,12 @@ class transaksiModel extends Model
             "qty"           => 1,
             "total"         => 15000
         ],
+        "3" => [
+            "id"            => "TRX004",
+            "namaPelanggan" => "Tarno",
+            "qty"           => 1,
+            "total"         => 35000
+        ],
     ];
 
     public function getData(){

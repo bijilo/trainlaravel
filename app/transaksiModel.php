@@ -28,9 +28,9 @@ class transaksiModel extends Model
         ],
         "3" => [
             "id"            => "TRX004",
-            "namaPelanggan" => "Tarno",
+            "namaPelanggan" => "Tarno Subaja",
             "qty"           => 1,
-            "total"         => 35000
+            "total"         => 40000
         ],
     ];
 
